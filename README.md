@@ -5,7 +5,7 @@ The first script, "1.Density Batpass by month and acoustics group", provides the
 
 The second script, "2.Prediction model and graph 090324", provides the code for making predictions on the emergence and entry of cave bats in the Republic of the Congo, as well as the code for the graphs presented in the publication.
 
-The 
+The third script creates the ggradar for Appendix 2 in the article, which represents the average number of bat pass per acoustic group, site (Mont Belo or Boundou) and period (emergence or return of bats to the cave).
 
 The scripts are related to the following publication currently published in the following reference: 
 Listen, who is it? A novel method for studying the nightly and annual phenologies of cave bat communities in data deficient areas of the world.
